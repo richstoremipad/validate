@@ -1,1 +1,7 @@
-b572d4a5c1e928bec151a0a0c01bb3d1ed03d39b8fc2b405fd01795d95f34ab865
+{
+  "version": "1.0.1",
+  "title": "Update Tersedia!",
+  "message": "Kami telah memperbaiki bug pada perhitungan Weton dan menambahkan fitur baru. Silakan update aplikasi Anda.",
+  "download_url": "https://website-anda.com/download"
+}
+
